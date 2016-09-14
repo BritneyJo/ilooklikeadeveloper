@@ -1,6 +1,7 @@
 # #ilooklikeadeveloper
 > Thursday, September 15, 2016
-[codepen](http://codepen.io/britneyjo/pen/qakbBa)
+
+[codepen](http://codepen.io/britneyjo/pen/qakbBa) for Code Along
 
 ### About This Event
 
