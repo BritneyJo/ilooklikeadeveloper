@@ -8,9 +8,10 @@ According to a Department of Labor Current Population Survey, only 34% of all we
 In an effort to get women interested in coding and empowered to pursue work they love, General Assembly is partnering with several organizations to host a night of coding and fellowship. Come hear a panel of top female developers discuss how they got started in the industry, what an average day looks like, which coding languages to learn, and more. Then, take the first step toward becoming a master developer by writing your first line of code!
 
 ### Panel
-**Sara Ines Calderon**, Co-Director, Women Who Code
-**Gina Helfrich, PhD**, Co-Founder, recruitHER
-**Edria Fleming**, Founder, CEO, Geek-e-Gurl Designs
-**Julie Shannan**, Deputy Director, Girlstart
-**Nicole Engard**, Director, ChickTech Austin
-**Britney Jo Ludkowski**, Web Development Instructor, General Assembly
+
+- **Sara Ines Calderon**, Co-Director, Women Who Code
+- **Gina Helfrich, PhD**, Co-Founder, recruitHER
+- **Edria Fleming**, Founder, CEO, Geek-e-Gurl Designs
+- **Julie Shannan**, Deputy Director, Girlstart
+- **Nicole Engard**, Director, ChickTech Austin
+- **Britney Jo Ludkowski**, Web Development Instructor, General Assembly
