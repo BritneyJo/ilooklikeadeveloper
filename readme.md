@@ -1,7 +1,6 @@
 # #ilooklikeadeveloper
 > Thursday, September 15, 2016
-
-[codepen](http://codepen.io/britneyjo/pen/qakbBa) for Code Along
+[Event Details](https://generalassemb.ly/education/ilooklikeadeveloper/austin/28154)
 
 ### About This Event
 
@@ -17,3 +16,7 @@ In an effort to get women interested in coding and empowered to pursue work they
 - **Julie Shannan**, Deputy Director, Girlstart
 - **Nicole Engard**, Director, ChickTech Austin
 - **Britney Jo Ludkowski**, Web Development Instructor, General Assembly
+
+### Code Along Instructions
+
+For the code along, we will be using a [Codepen](http://codepen.io/britneyjo/pen/qakbBa) so anyone can participate no matter what device you are using. Just follow the link and click 'fork' at the top right to create your own version to edit. You will be asked to create an account to save your work so feel free to do this ahead of tomorrow's event. Looking forward to learning how to write our first line of code together!
